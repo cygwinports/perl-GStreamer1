@@ -3,7 +3,7 @@ inherit gtk2-perl
 
 NAME="perl-GStreamer1"
 VERSION=0.003
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Perl GStreamer-1.0 bindings"
 DESCRIPTION="Perl bindings for the GStreamer-1.0 multimedia framework"
